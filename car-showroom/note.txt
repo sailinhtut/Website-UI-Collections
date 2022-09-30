@@ -1,6 +1,0 @@
-
-
-
-
-In php , http method are only two , (get and post).
-apolo
